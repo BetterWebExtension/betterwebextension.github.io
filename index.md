@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Better Web
 
-You can use the [editor on GitHub](https://github.com/BetterWebExtension/betterwebextension.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Better Web is a passion project by PneumaOfficial, with the idea that anyone should be able to freely customize any site to their preference.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<A preview will go here>
+  
+### Getting Started
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Getting started is easy!
 
 ```markdown
 Syntax highlighted code block
